@@ -1,6 +1,11 @@
 def 
 #introduction
 "hi, my name is #name"
+end
+def
+#introduction_with_language
+"hi, my name is #{name} and i am learning to program #{ruby}"
+
 
 
 

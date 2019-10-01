@@ -5,7 +5,11 @@ end
 def
 #introduction_with_language
 "hi, my name is #{name} and i am learning to program #{ruby}"
-
+end
+def
+#introductiohn_with_language_optional
+"hi,my name is #{sam} and i am learning to program #{ruby}"
+end
 
 
 
